@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+}
+.text-editor-body {
+    background-color: #fff;
+    width: 80%;
+    margin: 10px auto;
+    height: auto;
+    min-height: 800px;
+}
+[contentEditable] {
+    padding: 10px 20px;
+    font-size: 20px;
+}
