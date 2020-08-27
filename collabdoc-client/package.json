@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --entry ./src/index.js --output-filename ./dist/script.bundle.js",
-    "build": "webpack src/index.js dist/script.bundle.js",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
